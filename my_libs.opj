@@ -31,7 +31,9 @@
       (Path "Design Resources"
          "C:\USERS\USER\DESKTOP\VSCODE_ORCAD\my_libs\my_libs.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\library1.olb"))
+      (Path "Design Resources" "Library" ".\library1.olb")
+      (Select "Design Resources"
+         "C:\USERS\USER\DESKTOP\VSCODE_ORCAD\my_libs\my_libs.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -93,6 +95,17 @@
         (Zoom "223"))
       (Path "C:\Users\user\Desktop\vscode_orcad\my_libs\LIBRARY1.OLB")
       (Package "ATMEGA2560"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1395 52 512")
+        (PackageScroll "0 1329")
+        (PackageZoom "1")
+        (PartPackage "Package")
+        (Scroll "166 65")
+        (Zoom "126"))
+      (Path "C:\Users\user\Desktop\vscode_orcad\my_libs\LIBRARY1.OLB")
+      (Package "xlilnx"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
